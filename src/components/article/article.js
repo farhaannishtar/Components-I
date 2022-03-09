@@ -87,8 +87,20 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Professional Software Developmer Journey',
+    date: 'Mar 9th, 2022',
+    firstParagraph: `I've completed one month in an intensive coding bootcamp`,
+
+    secondParagraph: `I'm going to push myself at a manageable pace. 40-50 hours a week into learning coding`,
+
+    thirdParagraph: `I'm glad I have this chance to become a software engineer :) `
   }
 ];
+
+export default data
+
 
 /*
   Step 1: Write a component called 'articleMaker' to create an article.
